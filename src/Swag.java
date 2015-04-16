@@ -1,6 +1,6 @@
 
 public class Swag {
 	public static void main(String[] args) {
-		System.out.println("swag2");
+		System.out.println("VaginaPounder");
 	}
 }
